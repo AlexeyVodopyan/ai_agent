@@ -1,5 +1,3 @@
-Here is a concise README draft for your project, including a Python section with step-by-step instructions.
-
 # Multilingual CLI Chatbot
 
 A simple CLI chatbot supporting multiple programming languages (currently Python; Go and Rust planned) and various AI models (OpenAI, Anthropic, Gemini, etc.).
